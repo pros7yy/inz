@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390203078576",
+    "project_id": "praca-inz-f9c9d",
+    "storage_bucket": "praca-inz-f9c9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390203078576:android:24515692a3aebe2d31c875",
+        "android_client_info": {
+          "package_name": "com.example.projekt_inz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjERFIArq733gs59mM4U-SUAq4KSjC6yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
